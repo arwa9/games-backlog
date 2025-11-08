@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Games-Backlog/Games Tracker 2025/"}
+{"dg-publish":true,"permalink":"/games-backlog/games-tracker-2025/"}
 ---
 
 # Terminados / Dropped

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Games-Backlog/Games Backlog/"}
+{"dg-publish":true,"permalink":"/games-backlog/games-backlog/"}
 ---
 
 # Jugando
